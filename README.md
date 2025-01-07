@@ -11,7 +11,11 @@ The folders contain the notebooks for the following tasks:
 
 
 ## How to use
-The notebooks are meant to be run in order. The notebooks in the `text_processing` folder should be run first, followed by the notebooks in the `training` folder, then the notebooks in the `analysis` folder, and finally the notebooks in the `graphs` folder. The notebooks in the `benchmarks` folder can be run at any time.
+To be able to run the notebooks, you need to have access to the MIMIC dataset. The dataset is not included in this repository. You can request access to the dataset at https:
+[Physionet MIMIC-IV](https://physionet.org/content/mimiciv/3.1/) + [Physionet MIMIC-IV-ED](https://physionet.org/content/mimic-iv-ed/2.2/).
+Acess is credentialed and needs the user to provide a certificate of their training in the handling of human subject data.
+
+The notebooks are meant to be run in order. The notebooks in the `text_processing` folder should be run first, followed by the notebooks in the `training` folder, then the notebooks in the `analysis` folder.
 Not all of the contained notebooks are used in the thesis. Some are used for testing, experimenting or debugging. 
 
 To run the notebooks, install the necessary packages with `pip install -r requirements.txt`.
