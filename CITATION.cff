@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Scheffler"
+   given-names: "Felix"
+title: "Comparative Analysis of Large Language Models (LLM) and Natural Language Processing (NLP) Techniques to Enhance Data Processing for Improving Machine-Learning-Based Length-of-Stay Predictions"
+version: 1.0.0
+date-released: 2025-01-07
