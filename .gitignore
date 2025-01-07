@@ -1,0 +1,11 @@
+/.ruff_cache
+/raw_data/*.csv
+/refined_data/*.csv
+.env
+/.vscode
+**/.ruff_cache
+**/catboost_info
+.idea
+**.csv
+**.png
+**.log
